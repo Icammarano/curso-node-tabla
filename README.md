@@ -8,4 +8,8 @@ Options:
   -b, --base     Es la base de la tabla de multiplicar       [number] [required]
   -l, --listar   Muestra la tabla en consola o no     [boolean] [default: false]
   -h, --hasta    Límite Hasta cuanto multiplicar          [number] [default: 10]
+
+
+Ejemplo:
+    node app -b 81 -l -h 21  
 ```  
